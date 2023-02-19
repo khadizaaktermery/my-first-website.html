@@ -1,0 +1,57 @@
+h1{
+    font-size: 50px;
+}
+.highlight{
+    color: orange;
+}
+.width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.width-img{
+    width: 100%;
+}
+.top{
+    background-image: img2;
+}
+.link-tag{ 
+    text-decoration: none;
+    background-color:pink;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.two-sec{
+width:70%;
+
+}
+section {
+    height: 502px;
+    padding: 0 0 150 0;
+}
+.mdpart{
+    background-image: img 2jpg;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    height: 40%;
+    background-color: white;
+}
+.Experience-area{
+    background-image: img2.jpg;
+    position:left;
+    barkground-repet:no-repet;
+}
+#full-stack{
+    border-left:5px solid;
+    border-image: linear-gradient(180deg,rgb(194, 79, 33),tomato);
+     border-image-slice: 1;
+}
+#baby-web{
+    border-left: 5px solid;
+    border-image: linear-gradient(180deg,blue,#87ceeb,);
+    border-image-slice:1;
+}
+   
